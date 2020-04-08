@@ -28,10 +28,12 @@ qmean=np.array(qDf).mean(axis=0)
 x=[ ((i+1)/(150))**3 for i in range(150)]
 x2=[ ((i+1)/(150)) for i in range(150)]
 x3=[ (1.1**(i+1))/(1.1**150) for i in range(150)]
+x4=[ (1.02**(i+1))/(1.02**150) for i in range(150)]
 
 plt.plot(x)
 plt.plot(x2)
 plt.plot(x3)
+plt.plot(x4)
 
 plt.show()
 

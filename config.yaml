@@ -1,0 +1,25 @@
+DEL:
+  num: 500
+  minLen: 1
+  maxLen: 1000
+  dis: "pwoerlow"
+TD:
+  num: 250
+  minLen: 50
+  maxLen: 1000
+  dis: "pwoerlow"
+INS:
+  num: 250
+  minLen: 1
+  maxLen: 50
+  dis: "pwoerlow"
+INV:
+  num: 50
+  minLen: 50
+  maxLen: 1000
+  dis: "pwoerlow"
+SNP:
+  num: 2000
+  minLen: 1
+  maxLen: 1
+  dis: "None"
